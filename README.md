@@ -15,6 +15,7 @@ But integrating the green view index information with the satellite information,
 <br>
 
 Additionally for a further developed element we can give a time-frame to an individual like 14 days and we can say - your plantation is under audit period; keeping in mind that he/she is planting. The individual can label his/her scope and longitude of that place, and after certain sum measure of time when the real-time information update, we can have a check with some model that identifies planting video/photo uploaded by the user - and as we recognize this, we can give them their digital id.
+<br>
  
 ## Model Features 
 
