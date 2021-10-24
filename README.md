@@ -34,7 +34,13 @@ This is a fake venture to just give you all an overview of what our project is. 
 
 ## Tools/Languages Used
 
-### IDE : Jupyter Notebook, Atom
+### ● IDE : Jupyter Notebook, Atom
 
-### Languages Used : HTML, CSS, JS, Python (For Data Cleaning and Training)
+### ● Languages Used : HTML, CSS, JS, Python (For Data Cleaning and Training)
+
+### ● Libraries Used : geopandas, sci-kit learn, numpy
+
+### ● Database : Firebase
+
+### ● Software tool used : ArcGIS
 
