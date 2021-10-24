@@ -32,3 +32,9 @@ Additionally for a further developed element we can give a time-frame to an indi
 
 This is a fake venture to just give you all an overview of what our project is. In the beginning the home page is displayed which contains maps on nav bar to navigate around the map that displays the places that are available and not available for planting by calculating their gvi. The green dots represents that the area has a decent gvi and the red dots represent the area has a low gvi value and could be available for planting. Next comes the login portal. Once signed in, the sign in portal redirects you to the user dashboard which shows up the number of trees planted by you, places marked by you that can be readily available for planting by others, your number of friends on envirogram and your world ranking based on the quantity of trees you planted or the scores. Further on the route bar of the client dashboard it also contains the latest posts section which displays the latest posts posted by the envirogram users updating their status of their trees. The Submit section redirects you to a page where you can upload videos/photos of yourself planting the tree so that the team actually knows you've planted a tree. Also, the leaerboard shows your ranking status among locals. We would have extra highlights executed soon. So till that, stay tuned!
 
+## Tools/Languages Used
+
+### IDE : Jupyter Notebook, Atom
+
+### Languages Used : HTML, CSS, JS, Python (For Data Cleaning and Training)
+
