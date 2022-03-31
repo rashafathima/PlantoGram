@@ -26,7 +26,6 @@ Additionally for a further developed element we can give a time-frame to an indi
 ● User Dashboard <br>
 ● Leaderboard Section (Ranking based on number of trees planted)<br>
 ● Submit Section (To submit the video/photo of the user planting tree<br>
-● Team Board (The creators of PlantoGram)<br>
 <br>
 
 ## Model Description
